@@ -40,7 +40,7 @@ setup(
     author='Jordan Maxwell',
     maintainer='Jordan Maxwell',
     url='https://github.com/NxtStudios/p3d-sqs',
-    packages=['sqs'],
+    packages=['panda3d_sqs'],
     install_requires=['boto3'],
     classifiers=[
         'Programming Language :: Python :: 3',

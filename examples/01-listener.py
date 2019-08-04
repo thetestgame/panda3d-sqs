@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-from sqs import listener
+from panda3d_sqs import listener
 from direct.showbase.ShowBase import ShowBase
 
 base = ShowBase()
