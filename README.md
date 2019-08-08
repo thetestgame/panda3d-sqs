@@ -2,6 +2,10 @@
 
 Panda3D SQS
 ===========
+![GitHub issues](https://img.shields.io/github/issues/NxtStudios/p3d-sqs?style=for-the-badge)
+![PyPI - Status](https://img.shields.io/pypi/status/panda3d_sqs?style=for-the-badge)
+![Engine](https://img.shields.io/static/v1?style=for-the-badge&label=Engine&message=Panda3D&color=red)
+
 P3D-SQS provides an interface for listening and intergrating with AWS SQS queues using the Panda3D engine and task manager.
 
 ## Dependencies
